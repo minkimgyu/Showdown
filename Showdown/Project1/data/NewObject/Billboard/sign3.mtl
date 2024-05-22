@@ -1,0 +1,22 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.004
+Ns 507.796539
+Ka 0.692913 0.692913 0.692913
+Ks 0.318898 0.318898 0.318898
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd C:/Users/meal/Desktop/ComputerGraphicsWork/PA04_Files/NewBillboard/highpoly-parking-road-sign/source/Parking Point By PropShop/pp.png
+map_d C:/Users/meal/Desktop/ComputerGraphicsWork/PA04_Files/NewBillboard/highpoly-parking-road-sign/source/Parking Point By PropShop/pp.png
+
+newmtl Material.005
+Ns 664.160767
+Ka 0.842520 0.842520 0.842520
+Kd 0.384371 0.384371 0.384371
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

@@ -1,0 +1,12 @@
+# Blender 3.5.0 MTL File: 'None'
+# www.blender.org
+
+newmtl blinn2
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/meal/Desktop/ComputerGraphicsWork/PA04_Files/새 폴더 (2)/새 폴더/merry-go-round (1)/source/MerryGoRoundTexture4v2.png
