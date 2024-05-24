@@ -21,5 +21,3 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 * AABB 방식의 Collision 적용
 * Picking을 적용하여 총기 시스템 구현
 * Particle System을 적용하여 이펙트 구현
-
-## 회고
