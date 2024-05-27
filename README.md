@@ -1,10 +1,6 @@
 # Showdown
 Directx11을 사용하여 개발한 FPS 게임
 
-<div align="center">
-   <img src="https://github.com/minkimgyu/Showdown/assets/48249824/cf385a23-ba0d-4c16-a8c3-1adcceeada0a" width="60%" height="60%"/>
-</div>
-
 ## 프로젝트 소개
 Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을 적용해보면서 개발한 프로젝트입니다.
 
@@ -50,7 +46,12 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 </div>
 
 </br>
-
+</br>
+<div align="center">
+   <img src="https://github.com/minkimgyu/Showdown/assets/48249824/7ecda971-f150-4569-817a-4d10a1207550" width="30%" height="30%"/>
+   </br>
+   dds 파일을 활용하여 Skybox 구현
+</div>
   
 * ### AABB 방식의 Collision으로 Picking을 적용하여 총기 시스템 구현
 <div align="center">
@@ -58,14 +59,17 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 </div>
 
 </br>
-Particle System을 적용하여 Die Effect 출력해보았습니다.
+
+<div align="center">
+   <img src="https://github.com/minkimgyu/Showdown/assets/48249824/cf385a23-ba0d-4c16-a8c3-1adcceeada0a" width="60%" height="60%"/>
+</div>
   
 * ### Particle System을 적용하여 이펙트 구현
 <div align="center">
    <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/ParticleSystemClass.cpp#L45">코드 보러가기</a>
+   </br>
+   </br>
+   Particle System을 적용하여 Die Effect 출력해보았습니다.
 </div>
-
-</br>
-Particle System을 적용하여 Die Effect 출력해보았습니다.
 
 ## 회고
