@@ -17,7 +17,7 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 
 * ### Lighting 적용
 <div align="center">
-   <a href="https://github.com/minkimgyu/GraduationProject/blob/f9a92a93654f787c2032804344c8a420ec8bc562/Valrorant/Assets/Scripts/Agent/ActionController.cs#L93">코드 보러가기</a>
+   <a href="https://github.com/minkimgyu/Showdown/blob/4387e812418865dec7a7c44e2306eaf8b59ca9f7/Showdown/Project1/lightshaderclass.cpp#L56">코드 보러가기</a>
 </div>
 
 </br>
