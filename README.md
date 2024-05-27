@@ -35,7 +35,7 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 
 * ### 자주 사용되는 오브젝트에 Instancing, Billboard 기법을 적용하여 최적화 진행
 <div align="center">
-   <a href="https://github.com/minkimgyu/Showdown/blob/eda1e57158215d0185b256495a6598e31751977c/Showdown/Project1/instancemodelclass.cpp#L30">코드 보러가기</a>
+   <a href="https://github.com/minkimgyu/Showdown/blob/eda1e57158215d0185b256495a6598e31751977c/Showdown/Project1/instancemodelclass.cpp#L184">코드 보러가기</a>
 </div>
 
 </br>
