@@ -40,16 +40,6 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
    <img src="https://github.com/minkimgyu/Showdown/assets/48249824/a3d12db0-cf0f-4d02-884b-657b0d45d062" width="60%" height="60%"/>
 </div>
   
-* ### Skybox 적용
-<div align="center">
-   <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/skyboxclass.cpp#L18">코드 보러가기</a>
-</div>
-
-</br>
-<div align="center">
-   dds 파일을 활용하여 Skybox를 구현하였습니다.
-</div>
-  
 * ### AABB 방식의 Collision으로 Picking을 적용하여 총기 시스템 구현
 <div align="center">
    <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/pickclass.cpp#L9">코드 보러가기</a>
@@ -59,6 +49,16 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 
 <div align="center">
    <img src="https://github.com/minkimgyu/Showdown/assets/48249824/cf385a23-ba0d-4c16-a8c3-1adcceeada0a" width="60%" height="60%"/>
+</div>
+
+* ### Skybox 적용
+<div align="center">
+   <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/skyboxclass.cpp#L18">코드 보러가기</a>
+</div>
+
+</br>
+<div align="center">
+   dds 파일을 활용하여 Skybox를 구현하였습니다.
 </div>
   
 * ### Particle System을 적용하여 이펙트 구현
