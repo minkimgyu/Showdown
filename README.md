@@ -45,14 +45,27 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 </div>
   
 * ### Skybox 적용
-  
-* ### AABB 방식의 Collision 적용
-  
-* ### Picking을 적용하여 총기 시스템 구현
+<div align="center">
+   <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/skyboxclass.cpp#L18">코드 보러가기</a>
+</div>
 
+</br>
 
+  
+* ### AABB 방식의 Collision으로 Picking을 적용하여 총기 시스템 구현
+<div align="center">
+   <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/pickclass.cpp#L9">코드 보러가기</a>
+</div>
+
+</br>
+Particle System을 적용하여 Die Effect 출력해보았습니다.
   
 * ### Particle System을 적용하여 이펙트 구현
-  
+<div align="center">
+   <a href="https://github.com/minkimgyu/Showdown/blob/e4be90d29ee6abf4ddd15614d99da1f876909c4f/Showdown/Project1/ParticleSystemClass.cpp#L45">코드 보러가기</a>
+</div>
+
+</br>
+Particle System을 적용하여 Die Effect 출력해보았습니다.
 
 ## 회고
