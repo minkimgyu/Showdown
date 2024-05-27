@@ -48,8 +48,6 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 </br>
 </br>
 <div align="center">
-   <img src="https://github.com/minkimgyu/Showdown/assets/48249824/7ecda971-f150-4569-817a-4d10a1207550" width="30%" height="30%"/>
-   </br>
    dds 파일을 활용하여 Skybox 구현
 </div>
   
