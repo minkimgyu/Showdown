@@ -70,3 +70,5 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 </div>
 
 ## 회고
+
+Directx11을 활용하여 Instancing, Lighting 등 다양한 기능을 구현해보면서 상용 엔진이 어떤 방식으로 구현되어 있는지 배우게 되었습니다.
