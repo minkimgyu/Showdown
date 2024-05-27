@@ -15,11 +15,20 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 
 ## 기능 설명
 
-* Lighting 적용
-* 자주 사용되는 오브젝트에 Instancing, Billboard 기법을 적용하여 최적화 진행
-* Skybox 적용
-* AABB 방식의 Collision 적용
-* Picking을 적용하여 총기 시스템 구현
-* Particle System을 적용하여 이펙트 구현
+* ### Lighting 적용
+<div align="center">
+   <img src="https://github.com/minkimgyu/Showdown/assets/48249824/8fbb15f3-960c-4df5-98e8-78102d941dcf" width="60%" height="60%"/>
+</div>
+  
+* ### 자주 사용되는 오브젝트에 Instancing, Billboard 기법을 적용하여 최적화 진행
+  
+* ### Skybox 적용
+  
+* ### AABB 방식의 Collision 적용
+  
+* ### Picking을 적용하여 총기 시스템 구현
+  
+* ### Particle System을 적용하여 이펙트 구현
+  
 
 ## 회고
