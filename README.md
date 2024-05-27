@@ -46,9 +46,8 @@ Lighting, Instancing, Picking, Collision 등 DirectX11의 다양한 기능들을
 </div>
 
 </br>
-</br>
 <div align="center">
-   dds 파일을 활용하여 Skybox 구현
+   dds 파일을 활용하여 Skybox를 구현하였습니다.
 </div>
   
 * ### AABB 방식의 Collision으로 Picking을 적용하여 총기 시스템 구현
